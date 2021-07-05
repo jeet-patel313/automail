@@ -2,7 +2,7 @@
 automail.py allows users to generate a random 14 digit password and stores the password in user device and also email the credentials to the user.
 
 ## Prerequisites
-~ You need to configure your gmail to allow sending email using Less Secure Apps 
+~ You need to configure your gmail to allow sending email using Less Secure Apps <br>
 https://support.google.com/accounts/answer/6010255?hl=en
 
 ## How To Use
