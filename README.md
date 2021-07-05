@@ -3,7 +3,7 @@ automail.py allows users to generate a random 14 digit password and stores the p
 
 ## Prerequisites
 ~ You need to configure your gmail to allow sending email using Less Secure Apps 
-https://support.google.com/accounts/answer/6010255?hl=en
+~ Read How to configure: https://support.google.com/accounts/answer/6010255?hl=en
 
 ## How To Use
 ~ Fire up your terminal and type the following command.
