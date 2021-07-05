@@ -7,8 +7,8 @@ emailaddress = input("enter email address: ")
 websitename = input("enter website name: ")
 
 #variables for email sending
-EmailAdd = "SENDER@EMAIL.com"
-Pass = "PASSWORDHERE"
+EmailAdd = "EMAIADDESS@gmail.com" #enter email here
+Pass = "PASSWORD" #enter password here
 
 #variables for password generator
 char1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
